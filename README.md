@@ -1,5 +1,4 @@
 ## Hi there 👋, My name is Dmitry
-___
 
 ### Position: Web Developer
 ---
@@ -8,6 +7,10 @@ ___
  - 🤝  I'm open to collaborating on Open Source resources, Private projects
 
 ---
+
+### My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nda17&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **nda17/nda17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
