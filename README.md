@@ -1,9 +1,12 @@
 ## Hi there 👋, My name is Dmitry
 
 ### Position: Web Developer
+---
 
  - ✉️ You can contact me at khv1702@gmail.com
  - 🤝  I'm open to collaborating on Open Source resources, Private projects
+
+---
 
 <!--
 **nda17/nda17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
