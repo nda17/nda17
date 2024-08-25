@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there 👋, My name is Dmitry
 
-### Web Developer
+###Poaition: Web Developer
+
  - ✉️ You can contact me at khv1702@gmail.com
  - 🤝  I'm open to collaborating on Open Source resources, Private projects
 
