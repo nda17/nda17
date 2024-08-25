@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+# _Position:_ Web Developer
+You can see my projects under this block in pinned repositories, but there are more of them - HERE
+
 <!--
 **nda17/nda17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
