@@ -8,7 +8,7 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,git,html,css,scss,tailwind,react,redux,zustand,nextjs,nodejs,expressjs,nestjs,postgres,mongo,docker,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,git,html,css,scss,tailwind,react,redux,jotai,nextjs,nodejs,expressjs,nestjs,postgres,mongo,docker,prisma)](https://skillicons.dev)
 
 ---
 
