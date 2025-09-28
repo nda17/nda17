@@ -1,6 +1,6 @@
 ## Hi there 👋, My name is Dmitry
 
-### Position: Web Developer
+### Position: Fullstack js developer
 ---
 
  - ✉️ You can contact me at khv1702@gmail.com
