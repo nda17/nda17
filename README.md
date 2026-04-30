@@ -1,6 +1,6 @@
 ## Hi there 👋, My name is Dmitry
 
-### Position: Full-Stack JavaScript Engineer 
+### Position: Full-Stack JavaScript Engineer | System Analyst 
 ---
 
  - ✉️ You can contact me at khv1702@gmail.com
