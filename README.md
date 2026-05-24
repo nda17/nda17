@@ -1,5 +1,5 @@
 ---
-# Hey There👋! I'm Dmitry.
+# Hey There 👋! I'm Dmitry.
 
 # System Analyst with Full-Stack JavaScript background
 
