@@ -16,13 +16,18 @@ My previous Full-Stack JavaScript experience helps me communicate with developer
 - REST API analysis and documentation
 - Data model and integration logic
 - Technical documentation for development teams
-
+cloudflare
 ## Technical background
-[![My Skills](https://skillicons.dev/icons?i=js,ts,git,docker,html,css,scss,tailwind,bootstrap,react,redux,nextjs,nodejs,expressjs,nestjs,postgres,mongo,prisma)](https://skillicons.dev)
+[![Developer Skills](https://skillicons.dev/icons?i=js,ts,git,docker,html,css,scss,tailwind,bootstrap,react,redux,nextjs,nodejs,expressjs,nestjs,postgres,mongo,prisma,cloudflare,bun)](https://skillicons.dev)
+
+[![Analyst Skills](https://skillicons.dev/icons?i=git,gitlab,postgres,mongo,mongodb,php,symfony,redis,postman,graphql,figma)](https://skillicons.dev)
+
+## Contact
+
+ - ✉️ You can contact me at khv1702@gmail.com and Telegram: @NDA12
+ - 🤝 I am open to collaboration on open source resources and private projects as a Developer and Analyst.
 ---
 <!--
-### My GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nda17&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nda17&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
