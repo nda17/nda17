@@ -56,26 +56,9 @@ cloudflare
 
 
 
-[![Developer Skills](https://skillicons.dev/icons?i=js,ts,git,docker,html,css,scss,tailwind,bootstrap,react,redux,nextjs,nodejs,expressjs,nestjs,postgres,mongo,prisma,cloudflare,bun)](https://skillicons.dev)
 
-## Analyst Skills
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![diagrams.net](https://img.shields.io/badge/diagrams.net-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![Requirements Analysis](https://img.shields.io/badge/Requirements%20Analysis-2F4F4F?style=for-the-badge)
-![Business Processes](https://img.shields.io/badge/Business%20Processes-2F4F4F?style=for-the-badge)
-![BPMN](https://img.shields.io/badge/BPMN-2F4F4F?style=for-the-badge)
-![UML](https://img.shields.io/badge/UML-2F4F4F?style=for-the-badge)
-![Use Cases](https://img.shields.io/badge/Use%20Cases-2F4F4F?style=for-the-badge)
-![User Stories](https://img.shields.io/badge/User%20Stories-2F4F4F?style=for-the-badge)
-![ERD](https://img.shields.io/badge/ERD-2F4F4F?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-2F4F4F?style=for-the-badge)
+
 
 ///
 
@@ -114,13 +97,8 @@ cloudflare
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 💻 Technical Background
+[![Developer Skills](https://skillicons.dev/icons?i=js,ts,git,docker,html,css,scss,tailwind,bootstrap,react,redux,nextjs,nodejs,expressjs,nestjs,postgres,mongo,prisma,cloudflare,bun)](https://skillicons.dev)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 # Contact
 
