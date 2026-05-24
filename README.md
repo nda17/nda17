@@ -23,12 +23,11 @@ cloudflare
 ## HTML
 
 <!-- Use div tag for good format and it will show them in one line, without div tag it will be displayed on multiple lines -->
-<div style="display: flex; gap: 2px; align-items: center;">
-<img src="https://iconic-api.onrender.com/dark/js" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/ts" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/git" width="48px" />
- <img src="https://iconic-api.onrender.com/dark/github" width="48px" />
-
+<!-- <div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/js" width="48px" /> -->
+<!-- <img src="https://iconic-api.onrender.com/dark/typesrypt" width="48px" /> -->
+<!-- <img src="https://iconic-api.onrender.com/dark/git" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/github" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/gitlab" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/docker" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/html" width="48px" />
@@ -53,7 +52,18 @@ cloudflare
 
 
 
-<div>
+<div> -->
+
+### 🛠 Tools
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![diagrams.net](https://img.shields.io/badge/diagrams.net-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 [![Developer Skills](https://skillicons.dev/icons?i=js,ts,git,docker,html,css,scss,tailwind,bootstrap,react,redux,nextjs,nodejs,expressjs,nestjs,postgres,mongo,prisma,cloudflare,bun)](https://skillicons.dev)
 
