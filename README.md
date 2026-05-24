@@ -96,6 +96,22 @@ cloudflare
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+### 🧪 Testing & Quality
+
+![Test Cases](https://img.shields.io/badge/Test%20Cases-7C3AED?style=for-the-badge)
+![Checklists](https://img.shields.io/badge/Checklists-7C3AED?style=for-the-badge)
+![Bug Reports](https://img.shields.io/badge/Bug%20Reports-7C3AED?style=for-the-badge)
+![UAT](https://img.shields.io/badge/UAT-7C3AED?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-7C3AED?style=for-the-badge)
+
+### 🚀 Methodologies
+
+![Agile](https://img.shields.io/badge/Agile-0E7490?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-0E7490?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban-0E7490?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC-0E7490?style=for-the-badge)
+![Waterfall](https://img.shields.io/badge/Waterfall-0E7490?style=for-the-badge)
+
 ### 💻 Technical Background
 [![Developer Skills](https://skillicons.dev/icons?i=js,ts,git,docker,html,css,scss,tailwind,bootstrap,react,redux,nextjs,nodejs,expressjs,nestjs,postgres,mongo,prisma,cloudflare,bun)](https://skillicons.dev)
 
