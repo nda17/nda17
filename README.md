@@ -18,7 +18,11 @@ My previous Full-Stack JavaScript experience helps me communicate with developer
 - Technical documentation for development teams
 cloudflare
 ## Technical background
+# Developer Skills
+
 [![Developer Skills](https://skillicons.dev/icons?i=js,ts,git,docker,html,css,scss,tailwind,bootstrap,react,redux,nextjs,nodejs,expressjs,nestjs,postgres,mongo,prisma,cloudflare,bun)](https://skillicons.dev)
+
+# Analyst Skills
 
 [![Analyst Skills](https://skillicons.dev/icons?i=git,gitlab,postgres,mongo,mongodb,php,symfony,redis,postman,graphql,figma)](https://skillicons.dev)
 
