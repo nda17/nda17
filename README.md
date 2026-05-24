@@ -1,13 +1,13 @@
 ---
 # Hi, I'm Dmitry Nefedov
 
-## System Analyst with Full-Stack JavaScript background
+# System Analyst with Full-Stack JavaScript background
 
 I work as a System Analyst and help transform business needs into clear software requirements, API contracts, process diagrams, data models, and development-ready documentation.
 
 My previous Full-Stack JavaScript experience helps me communicate with developers, understand technical constraints, and design realistic solutions.
 
-## What I do
+# What I do
 
 - Functional and non-functional requirements
 - User stories and acceptance criteria
@@ -17,16 +17,16 @@ My previous Full-Stack JavaScript experience helps me communicate with developer
 - Data model and integration logic
 - Technical documentation for development teams
 cloudflare
-## Technical background
-# Developer Skills
+# Technical background
+## Developer Skills
 
 [![Developer Skills](https://skillicons.dev/icons?i=js,ts,git,docker,html,css,scss,tailwind,bootstrap,react,redux,nextjs,nodejs,expressjs,nestjs,postgres,mongo,prisma,cloudflare,bun)](https://skillicons.dev)
 
-# Analyst Skills
+## Analyst Skills
 
 [![Analyst Skills](https://skillicons.dev/icons?i=git,gitlab,postgres,mongo,mongodb,php,symfony,redis,postman,graphql,figma)](https://skillicons.dev)
 
-## Contact
+# Contact
 
  - ✉️ You can contact me at khv1702@gmail.com and Telegram: @NDA12
  - 🤝 I am open to collaboration on open source resources and private projects as a Developer and Analyst.
