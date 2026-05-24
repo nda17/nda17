@@ -16,11 +16,9 @@ My previous Full-Stack JavaScript experience helps me communicate with developer
 - REST API analysis and documentation
 - Data model and integration logic
 - Technical documentation for development teams
-cloudflare
-# Technical background
-## Developer Skills
 
-## HTML
+# 🧠 Technical background
+
 
 <!-- Use div tag for good format and it will show them in one line, without div tag it will be displayed on multiple lines -->
 <!-- <div style="display: flex; gap: 2px; align-items: center;">
@@ -58,11 +56,6 @@ cloudflare
 
 
 
-
-
-///
-
-## 🧠 Skills
 
 ### 🧩 System Analysis
 
