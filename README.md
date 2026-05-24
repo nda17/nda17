@@ -24,9 +24,35 @@ cloudflare
 
 <!-- Use div tag for good format and it will show them in one line, without div tag it will be displayed on multiple lines -->
 <div style="display: flex; gap: 2px; align-items: center;">
-<img src="https://iconic-api.onrender.com/dark/python" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/html" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/js" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/js" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/ts" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/git" width="48px" />
+ <img src="https://iconic-api.onrender.com/dark/github" width="48px" />
+
+<img src="https://iconic-api.onrender.com/dark/gitlab" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/docker" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/html" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/css" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/scss" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/tailwind" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/bootstrap" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/react" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/redux" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/tanstack" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/nextjs" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/nodejs" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/nestjs" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/expressjs" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/postgresql" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/mysql" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/sql" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/mongo" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/redis" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/prisma" width="48px" />
+
+
+
+
 <div>
 
 [![Developer Skills](https://skillicons.dev/icons?i=js,ts,git,docker,html,css,scss,tailwind,bootstrap,react,redux,nextjs,nodejs,expressjs,nestjs,postgres,mongo,prisma,cloudflare,bun)](https://skillicons.dev)
