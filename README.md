@@ -1,17 +1,25 @@
-## Hi there 👋, My name is Dmitry
-
-### Position: Full-Stack JavaScript Engineer | System Analyst 
 ---
+# Hi, I'm Dmitry Nefedov
 
- - ✉️ You can contact me at khv1702@gmail.com
- - 🤝  I'm open to collaborating on Open Source resources, Private projects
+## System Analyst with Full-Stack JavaScript background
 
----
+I work as a System Analyst and help transform business needs into clear software requirements, API contracts, process diagrams, data models, and development-ready documentation.
 
+My previous Full-Stack JavaScript experience helps me communicate with developers, understand technical constraints, and design realistic solutions.
+
+## What I do
+
+- Functional and non-functional requirements
+- User stories and acceptance criteria
+- Use cases and role models
+- BPMN / UML / sequence diagrams
+- REST API analysis and documentation
+- Data model and integration logic
+- Technical documentation for development teams
+
+## Technical background
 [![My Skills](https://skillicons.dev/icons?i=js,ts,git,docker,html,css,scss,tailwind,bootstrap,react,redux,nextjs,nodejs,expressjs,nestjs,postgres,mongo,prisma)](https://skillicons.dev)
-
 ---
-
 <!--
 ### My GitHub Stats
 
