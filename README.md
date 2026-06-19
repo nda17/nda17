@@ -26,7 +26,7 @@ My previous Full-Stack JavaScript experience helps me communicate with developer
 <img src="https://iconic-api.onrender.com/dark/typescript" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/git" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/github" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/github-actions" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/github-actions" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/gitlab" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/docker" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/html" width="48px" />
